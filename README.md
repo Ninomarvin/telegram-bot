@@ -34,11 +34,6 @@ Bot Commands
       <td>!9gag: Send random image from 9gag</td>
     </tr>
     <tr>
-      <td>boobs.lua</td>
-      <td>Gets a random boobs or butts pic</td>
-      <td>!boobs: Get a boobs NSFW image. :underage:<br>!butts: Get a butts NSFW image. :underage:<br></td>
-    </tr>
-    <tr>
       <td>btc.lua</td>
       <td>Bitcoin global average market value (in EUR or USD)</td>
       <td>!btc [EUR|USD] [amount]</td>
